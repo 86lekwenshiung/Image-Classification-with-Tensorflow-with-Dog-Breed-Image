@@ -20,7 +20,7 @@ Using pre-trained model from mobilenet_v2 (tensorflow hub) to train our model to
   <img src = 'https://raw.githubusercontent.com/86lekwenshiung/Multiclass-Classification-with-CNN-in-Tensorflow/main/images/baseline.png'>
     <p/>
   
-  Using the same sequence , we increases the datasize to the full dataset of 10,000 images. The model performed much better , but it is obersved to be overfitted with a training accuracy of 81%.
+  Using the same sequence , we increases the datasize to the full dataset of 10,000 images. The model performed much better , but it is observed to be overfitted with a validation accuracy of 81% compared to the training accuracy of 95%.
   * Training Data : 8177,
   * Validation Data : 2045
   * Next Step : Further fine tuning layers could be added in the image preprocessing such as `data augmentation` and `fine tuning` the trainable layers.

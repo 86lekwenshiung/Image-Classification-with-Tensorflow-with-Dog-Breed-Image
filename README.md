@@ -5,7 +5,7 @@ ___
 
 | Project | Findings | Key Feature | Data Source |
 |---|---|---|---|
-| Dog Breed Multi-classification | [Summary](#section_2) | * Tensorflow<br>* Transfer Learning<br>* Convolutional Neural Network(CNN)<br>* mobilenet_V2 | [Kaggle Dataset for Dog Breeds](https://www.kaggle.com/c/dog-breed-identification/data) |
+| [Dog Breed Multi-classification](https://github.com/86lekwenshiung/Multiclass-Image-Classification-with-CNN-in-Tensorflow/raw/main/Dog_Vision_Dog_Breed_Multiclassification.ipynb) | [Summary](#section_2) | * Tensorflow<br>* Transfer Learning<br>* Convolutional Neural Network(CNN)<br>* mobilenet_V2 | [Kaggle Dataset for Dog Breeds](https://www.kaggle.com/c/dog-breed-identification/data) |
 | Food 101 Multi-classification | Summary | * Tensorflow<br>* Transfer Learning<br>* Convolutional Neural Network(CNN)<br>* Efficientnet_B0 | 101 Food Images |
 
 <a id = 'section_2'><a/>
